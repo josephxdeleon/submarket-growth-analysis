@@ -1,0 +1,5 @@
+.venv/
+.env
+*.pbix.bak
+__pycache__/
+.DS_Store
