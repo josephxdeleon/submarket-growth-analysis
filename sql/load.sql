@@ -1,0 +1,1 @@
+\copy staging.market_zip_raw (zip_code, service_area, med_center, market_size, members, snapshot_date, notes) FROM 'data/market_zip_raw.csv' WITH (FORMAT csv, HEADER true)
